@@ -48,4 +48,4 @@ To run the project locally:
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/clock-stopwatch-app.git
+   git clone https://github.com/harshhdhankhar/PRODGEY_WD_02.git
